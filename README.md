@@ -7,22 +7,22 @@ DSA Pattern Recognition
 Questions
 🟢 EASY (Foundation Build)
 👉 Target: concept solid + confidence
-Maximum Sum Subarray of Size K
-First Negative Number in Every Window of Size K
-Count Occurrences of Anagrams
-Maximum of All Subarrays of Size K
+Maximum Sum Subarray of Size K,
+First Negative Number in Every Window of Size K,
+Count Occurrences of Anagrams,
+Maximum of All Subarrays of Size K,
 
 
 🟡 MEDIUM (Real Interview Zone)
 👉  SDE1/SDE2 questin
-Longest Substring Without Repeating Characters
-Longest Repeating Character Replacement
-Permutation in String
-Minimum Size Subarray Sum
-Fruit Into Baskets
+Longest Substring Without Repeating Characters,
+Longest Repeating Character Replacement,
+Permutation in String,
+Minimum Size Subarray Sum,
+Fruit Into Baskets,
 👉 Ye HIGH ROI hai (baar-baar aate hain)
 
 
 🔴 MEDIUM → HARD (Confidence Booster)
-Minimum Window Substring
-Sliding Window Maximum
+Minimum Window Substring,
+Sliding Window Maximum,
